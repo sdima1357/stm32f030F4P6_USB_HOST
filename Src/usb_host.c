@@ -1,8 +1,8 @@
 
 /*******************************
-*  Samsonov Dima Haifa@Israel  *
-*  sdima1357@gmail.com         *
-*  3/2021					   *
+*    warning!!!: any copy of this code or his part must include this: 
+*  "The original was written by Dima Samsonov @ Israel sdima1357@gmail.com on 3/2021" *
+*  Copyright (C) 2021  Dmitry Samsonov *
 ********************************/
 
 #include <stdint.h>
